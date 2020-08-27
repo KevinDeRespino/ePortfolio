@@ -13,7 +13,7 @@ Game development is my passion. My first real taste of video game development wa
 
 ### Games
 
-![Image](images/TitleImages/RicochetRanger_LinkImage.jpg)
+![Image](images/TitleImages/RicochetRanger_TitleImage.jpg)
 [Ricochet Ranger](https://kevinderespino.github.io/ricochetranger)
 
 ![Image](images/TitleImages/HHour_TitleImage.jpg)
