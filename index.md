@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Kevin DeRespino
+## ePortfolio
 
-You can use the [editor on GitHub](https://github.com/KevinDeRespino/ePortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	![Image](images/TitleImages/KevinDeRespino.jpg)
 
-### Markdown
+	My name is Kevin DeRespino and I am an Indie Game Developer. I graduated from Southern New Hampshire University with a B.S in Computer Science and from Sandhills Community College with an A.S in Simulation and Game Design. I have shipped games on multiple platforms from mobile phones to Xbox. My independent games released to the XBox Indie Marketplace have sold over 70,000 combined units. I am proficient in C++, C# and Unreal Engine.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	Game development is my passion. My first real taste of video game development was making maps for the original Doom when I was 10 years old and I have been doing it ever since. Please feel free to take a look at some of my works on this website.
 
-```markdown
-Syntax highlighted code block
+  
 
-# Header 1
-## Header 2
-### Header 3
+### Games
 
-- Bulleted
-- List
+![Image](images/TitleImages/RicochetRanger_LinkImage.jpg)
+[Ricochet Ranger](https://kevinderespino.github.io/ricochetranger)
 
-1. Numbered
-2. List
+![Image](images/TitleImages/HHour_TitleImage.jpg)
+[H-Hour: World's Elite](https://kevinderespino.github.io/hhour)
 
-**Bold** and _Italic_ and `Code` text
+![Image](images/TitleImages/HHourPOC_TitleImage.jpg)
+[H-Hour POC](https://kevinderespino.github.io/hhourpoc)
 
-[Link](url) and ![Image](src)
-```
+![Image](images/TitleImages/ZombieSquare2_TitleImage.jpg)
+[Zombie Square 2](https://kevinderespino.github.io/zombiesquare2)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](images/TitleImages/RALL_TitleImage.jpg)
+[Ricochet Assassin Lost Levels](https://kevinderespino.github.io/ricochetassassinll)
 
-### Jekyll Themes
+![Image](images/TitleImages/RA_TitleImage.jpg)
+[Ricochet Assassin](https://kevinderespino.github.io/ricochetassassin)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KevinDeRespino/ePortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](images/TitleImages/ZombieSquare_TitleImage.jpg)
+[Zombie Square](https://kevinderespino.github.io/zombiesquare)
 
-### Support or Contact
+### WIP
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](images/TitleImages/MagicGame_TitleImage.jpg)
+[Zombie Square](https://kevinderespino.github.io/magicgameproject)
+
