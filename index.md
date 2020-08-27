@@ -19,7 +19,7 @@ Game development is my passion. My first real taste of video game development wa
 ![Image](images/TitleImages/HHour_TitleImage.jpg)
 [H-Hour: World's Elite](https://kevinderespino.github.io/hhour)
 
-![Image](images/TitleImages/HHourPOC_TitleImage.jpg)
+![Image](images/TitleImages/HHourPOC_TitleImage.jpg)(https://kevinderespino.github.io/hhourpoc)
 [H-Hour POC](https://kevinderespino.github.io/hhourpoc)
 
 ![Image](images/TitleImages/ZombieSquare2_TitleImage.jpg)
