@@ -37,5 +37,5 @@ Game development is my passion. My first real taste of video game development wa
 ### WIP
 
 ![Image](images/TitleImages/MagicGame_TitleImage.jpg)
-[Zombie Square](https://kevinderespino.github.io/magicgameproject)
+[Magic Project](https://kevinderespino.github.io/magicgameproject)
 
