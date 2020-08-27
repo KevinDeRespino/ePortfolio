@@ -3,11 +3,11 @@
 
 ### About Me
 
-	![Image](images/TitleImages/KevinDeRespino.jpg)
+![Image](images/TitleImages/KevinDeRespino.jpg)
 
-	My name is Kevin DeRespino and I am an Indie Game Developer. I graduated from Southern New Hampshire University with a B.S in Computer Science and from Sandhills Community College with an A.S in Simulation and Game Design. I have shipped games on multiple platforms from mobile phones to Xbox. My independent games released to the XBox Indie Marketplace have sold over 70,000 combined units. I am proficient in C++, C# and Unreal Engine.
+My name is Kevin DeRespino and I am an Indie Game Developer. I graduated from Southern New Hampshire University with a B.S in Computer Science and from Sandhills Community College with an A.S in Simulation and Game Design. I have shipped games on multiple platforms from mobile phones to Xbox. My independent games released to the XBox Indie Marketplace have sold over 70,000 combined units. I am proficient in C++, C# and Unreal Engine.
 
-	Game development is my passion. My first real taste of video game development was making maps for the original Doom when I was 10 years old and I have been doing it ever since. Please feel free to take a look at some of my works on this website.
+Game development is my passion. My first real taste of video game development was making maps for the original Doom when I was 10 years old and I have been doing it ever since. Please feel free to take a look at some of my works on this website.
 
   
 
