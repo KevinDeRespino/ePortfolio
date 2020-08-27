@@ -14,28 +14,36 @@ Game development is my passion. My first real taste of video game development wa
 ### Games
 
 ![Image](images/TitleImages/RicochetRanger_TitleImage.jpg)
+
 [Ricochet Ranger](https://kevinderespino.github.io/ricochetranger)
 
 ![Image](images/TitleImages/HHour_TitleImage.jpg)
+
 [H-Hour: World's Elite](https://kevinderespino.github.io/hhour)
 
-![Image](images/TitleImages/HHourPOC_TitleImage.jpg)(https://kevinderespino.github.io/hhourpoc)
+![Image](images/TitleImages/HHourPOC_TitleImage.jpg)
+
 [H-Hour POC](https://kevinderespino.github.io/hhourpoc)
 
 ![Image](images/TitleImages/ZombieSquare2_TitleImage.jpg)
+
 [Zombie Square 2](https://kevinderespino.github.io/zombiesquare2)
 
 ![Image](images/TitleImages/RALL_TitleImage.jpg)
+
 [Ricochet Assassin Lost Levels](https://kevinderespino.github.io/ricochetassassinll)
 
 ![Image](images/TitleImages/RA_TitleImage.jpg)
+
 [Ricochet Assassin](https://kevinderespino.github.io/ricochetassassin)
 
 ![Image](images/TitleImages/ZombieSquare_TitleImage.jpg)
+
 [Zombie Square](https://kevinderespino.github.io/zombiesquare)
 
 ### WIP
 
 ![Image](images/TitleImages/MagicGame_TitleImage.jpg)
+
 [Magic Project](https://kevinderespino.github.io/magicgameproject)
 
